@@ -21,7 +21,6 @@ body {
     }
 
     .header .logo {
-        background: red;
         width: 300px;
         display:flex;
     }
