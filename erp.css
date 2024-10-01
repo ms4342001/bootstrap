@@ -20,11 +20,11 @@ body {
     .header .logo img {
         width: 80px;
     }
-    .logo{
+    .header .logo{
         display: flex;
 flex-direction: column;
     }
-    .logo h2{
+    .header .logo h2{
 padding-left: 20px;
 padding-top: 5px;
     }
