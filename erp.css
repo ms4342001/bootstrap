@@ -110,6 +110,9 @@ body {
         padding: 10px;
     }
 
+    .sidebar img#toggleSidebar {
+        width: 40%;
+    }
     .sidebar ul {
         list-style-type: none;
         padding: 0;
