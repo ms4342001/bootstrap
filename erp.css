@@ -22,7 +22,7 @@ body {
     }
     .header .logo{
         display: flex;
-flex-direction: column;
+flex-direction: raw;
     }
     .header .logo h2{
 padding-left: 20px;
