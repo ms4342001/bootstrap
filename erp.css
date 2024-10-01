@@ -23,6 +23,7 @@ body {
     .header .logo {
         background: red;
         width: 300px;
+        display:flex;
     }
 
     .header .logo h2 {
