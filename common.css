@@ -103,46 +103,7 @@ font-family: "Noto Serif TC", serif !important;
     /* 保持圖片完整，不進行切片 */
 }
 
-.single-post *{
-	color:#fff !important;
-}
-.single-post form.wp-block-search{
-	border:1px solid !important;
-  border-image: linear-gradient(135deg, #f7b1f2, #f02bf2, #0ecde7,#a9cdf7) !important; /* 使用線性漸層作為邊框 */
-  border-image-slice: 1 !important; /* 保持圖片完整，不進行切片 */
-}
-.single-post button.wp-block-search__button{
-	background:transparent !important;
-}
 
-.single-post .page-subtitle{
-	padding-top:0 !important;
-}
-.single-post p,.single-post h2,.single-post h3,.single-post h4,.single-post h5,.single-post ul,.single-post ol{
-	margin:0;
-}
-.single-post h2,.single-post h3{
-	padding-top:1em;
-}
-.single-post li{
-	font-size:14px;
-}
-.single-post article a{
-	color:#65aed5 !important;
-}
-.single-post p,.single-post li{
-	text-align:justify !important;
-}
-.single-post ol,.single-post ul {
-    list-style-position: inside;
-    padding-left: 0;
-    margin-left: 0;
-}
-.single-post li {
-    position: relative;
-    text-indent: -20px; /* 負值縮排第一行 */
-        padding-left: 20px; /* 調整整體縮排 */
-}
 @media screen and (max-width: 768px) {
 	.inner-box {
         padding: 0em !important;
