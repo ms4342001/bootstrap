@@ -1,0 +1,127 @@
+nav.header-menu-1 ul.menu li.menu-item a{
+	font-size: 14px !important;
+}
+
+div[data-column="widget-area-4"]{
+	padding-top:1em !important;
+}
+.ct-header{
+	background:#1a1a1a !important;
+}
+.footer-icons-info img{
+	width:36px;
+	height:36px;
+	padding-bottom:2em;
+}
+.row-height{
+	height:50px;
+}
+.page-subtitle{
+	padding:1em 0;
+}
+.noto-serif-tc {
+  font-family: "Noto Serif TC", serif;
+  font-weight: 500;
+font-optical-sizing: auto;
+}
+
+.inner-box {
+    padding: 0em !important;
+    width: 75% !important;
+	max-width:1920px !important;
+}
+.inner-box h1{
+	font-size: 28px !important;
+}
+.inner-box h2{
+	font-size: 24px !important;
+}
+.inner-box h3{
+	font-size: 16px !important;
+}
+.inner-box h4,.coninfo h4{
+	font-size: 16px !important;
+}
+.inner-box p,.coninfo p{
+	font-size: 14px !important;
+}
+
+.taj * {
+    text-align: justify !important;
+}
+
+.color-w * {
+    color: #fff !important;
+}
+
+/*藍色*/
+.color-b * {
+    color: #65aed5 !important;
+}
+
+/*紫色*/
+.color-p * {
+    color: #7B69A1 !important;
+}
+
+/*粉紅色*/
+.color-p2 * {
+    color: #a87095 !important;
+}
+
+.fw-bolder{
+-webkit-text-stroke: 0.5px #fff;
+}
+
+.ff_ming * {
+font-family: "Noto Serif TC", serif !important;
+  font-weight: 500 !important;
+}
+
+.ff_hai * {
+    font-family: "微軟正黑體", sans-serif !important;
+}
+
+.ff_arial * {
+    font-family: arial, serif !important;
+}
+
+.h2_left_border * {
+    border-left: #B779A4 2px solid !important;
+    padding-left: 0.5em;
+    color: #fff !important;
+font-family: "Noto Serif TC", serif !important;
+  font-weight: 500 !important;
+	font-size:24px !important;
+}
+
+.gra-box {
+    border: 2px solid;
+    border-image: linear-gradient(135deg, #f7b1f2, #f02bf2, #0ecde7, #a9cdf7);
+    /* 使用線性漸層作為邊框 */
+    border-image-slice: 1;
+    /* 保持圖片完整，不進行切片 */
+}
+
+
+@media screen and (max-width: 768px) {
+	.inner-box {
+        padding: 0em !important;
+    }
+
+    .inner-box h1{
+	font-size: 20px !important;
+}
+.inner-box h2{
+	font-size: 18px !important;
+}
+.inner-box h3{
+	font-size: 16px !important;
+}
+.inner-box h4{
+	font-size: 14px !important;
+}
+.inner-box p{
+	font-size: 14px !important;
+}
+}
